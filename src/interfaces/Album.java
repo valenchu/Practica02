@@ -1,0 +1,7 @@
+
+package interfaces;
+
+
+class Album {
+    
+}
